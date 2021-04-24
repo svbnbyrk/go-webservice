@@ -6,7 +6,7 @@ import (
 	"regexp"
 	"strconv"
 
-	"github.com/svbnbyrk/webservice/models"
+	"github.com/svbnbyrk/go-webservice/models"
 )
 
 type userController struct {
