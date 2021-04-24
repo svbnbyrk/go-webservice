@@ -1,6 +1,10 @@
 ## go-webservice
 Simple rest web service example for golang
-* Run **go build**
+### Compiles for production
+``
+go build
+``
 * Execute **go-webservice.exe**
-* Ready to GO.
+
+Ready to GO.
 
